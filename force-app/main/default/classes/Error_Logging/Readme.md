@@ -4,9 +4,9 @@ This repository contains utility classes for performing DML operations and an er
 
 ## Files
 
-- **DMLUtils.java**: Contains methods for performing various DML operations such as insert, update, delete, undelete, and upsert. It also includes methods for logging errors that occur during these operations.
-- **DMLUtilsWrapper.java**: A wrapper class used to encapsulate the results of DML operations, including any errors that occur.
-- **ErrorLoggerFramework.java**: Provides methods for logging application and integration errors. It supports logging errors to Salesforce custom objects and publishing error events.
+- **DMLUtils.cls**: Contains methods for performing various DML operations such as insert, update, delete, undelete, and upsert. It also includes methods for logging errors that occur during these operations.
+- **DMLUtilsWrapper.cls**: A wrapper class used to encapsulate the results of DML operations, including any errors that occur.
+- **ErrorLoggerFramework.cls**: Provides methods for logging application and integration errors. It supports logging errors to Salesforce custom objects and publishing error events.
 
 ## Classes and Methods
 
